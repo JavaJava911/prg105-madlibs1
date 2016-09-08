@@ -1,0 +1,117 @@
+#Variables
+name1 = "Kirk Fool"
+name2 = "Klingons"
+name3 = "the Lady Uhura"
+name4 = "Tribbles"
+adj1 = "Fuzzy"
+adj2 = "adorable little"
+adj3 = "crusty"
+candy4 = "Caramel"
+verb1 = "Warppin'"
+verb2 = "Jazzin' "
+cartoon = "Scooby Doo"
+choice1 = "Jumja Tea"
+choice2 = "Elwasser Stout"
+choice3 = "Romulan Ale"
+rank = "Captain"
+time = "Lunar setting"
+place = "Bajoran Nebula"
+# end of variables
+# why is there sometimes a \ at the end of a line asking for end?
+
+print ("Poem of the great "+name1+"\n")
+#V1
+print("Little "+rank+" "+name1)
+print(verb1+" round the "+place)
+print("Scoopin' up the "+candy4+" "+name2)
+print("And "+verb2+ " up their "+adj3 +" heads,\n")
+
+print("Down came "+name3+ " and she said;\n")
+
+print("Now little "+rank+" "+name1)
+print("I don't want to see you")
+print("Scoopin' up those " +candy4+" "+name2)
+print("And "+verb2+ "up their "+adj3+" "+"heads")
+print("I'll give you 3 "+choice1)
+print("But, if you don't "+cartoon+" right now!")
+print("I'll turn your crew into "+adj1+" "+name4+"\n")
+
+print("The very next "+time+"\n")
+#V2
+print("Little "+rank+" "+name1)
+print(verb1+" round the "+place)
+print("Scoopin' up the "+candy4+" "+name2)
+print("And "+verb2+ " up their "+adj3 +" heads,\n")
+
+print("Down came "+name3+ " and she said;\n")
+
+print("Now little "+rank+" "+name1)
+print("I don't want to see you")
+print("Scoopin' up those " +candy4+" "+name2)
+print("And "+verb2+ "up their "+adj3+" "+"heads")
+print("I'll give you 2 "+choice2)
+print("But, if you don't "+cartoon+" right now!")
+print("I'll turn your crew into "+adj1+" "+name4+"\n")
+
+print("The very next "+time+"\n")
+#V3
+print("Little "+rank+" "+name1)
+print(verb1+" round the "+place)
+print("Scoopin' up the "+candy4+" "+name2)
+print("And "+verb2+ " up their "+adj3 +" heads,\n")
+
+print("Down came "+name3+ " and she said;\n")
+
+print("Now little "+rank+" "+name1)
+print("I don't want to see you")
+print("Scoopin' up those " +candy4+" "+name2)
+print("And "+verb2+ "up their "+adj3+" "+"heads")
+print("I'll give you 1 final "+choice1)
+print("Don't be a fool, if you don't "+cartoon+" right now!")
+print("I'll turn your crew into "+adj1+" "+name4+"\n")
+
+print("The very next "+time+"\n")
+
+#V4
+print("Little "+rank+" "+name1)
+print(verb1+" round the "+place)
+print("Scoopin' up the "+candy4+" "+name2)
+print("And "+verb2+ " up their "+adj3 +" heads,\n")
+
+print("Down came "+name3+ " and she said;\n")
+
+print("Now little "+rank+" "+name1)
+print("I didn't want to see you")
+print("Scoopin' up those " +candy4+" "+name2)
+print("And "+verb2+ "up their "+adj3+" "+"heads")
+print("I gave you 3 "+choice1+ " 2 "+choice2+ " and 1 very smooth "+choice3)
+print("You just couldn't resist those "+adj3+ " " +candy4+" "+name2)
+print("True to my word "+rank+ " Shazam, your crew are "+"+adj1+" "+name4+\n")
+
+
+print ("and the moral of the story is")
+print ("no good can come from "+candy4+" "+name2+ " and "+ adj1+ " "+name4)
+print ("trying to watch Star trek while "+verb1+ "up their "+cartoon+"'s")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
